@@ -14,7 +14,7 @@ Because GitHub gets a little nervous around large files, the complete game packa
 
 1. **Download** all four `.rar` files to the exact same directory on your Linux machine.
 2. **Extract** the first archive. Your extraction tool is smart enough to automatically stitch the four parts together into a single, complete folder(probably).
-3. **Launch it!** Open your terminal, navigate to your freshly extracted directory, and run the launch script for the game you want to play:
+3. **Launch it!** Open your terminal, navigate to your freshly extracted directory, and run the launch script for the game you want to play (dont forget to **$chmod -R +x export/** it!!!!!!):
 
 **To play Half-Life:**
     $ export/bin/hl
