@@ -27,7 +27,7 @@ Because GitHub gets a little nervous around large files, the complete game packa
 
 > **💡 Pro-Tip:** The `export` folder is 100% portable. It contains absolutely zero hard-coded paths. You can rename it, chuck it on a USB thumb drive, or bury it in your file system. It will still run.
 
->If you want to play it in android.. install termux , zarchiver and xash3d FWGS. After the usual updation, install git in turmux,gitclone this repo and extract the four rar with zarchiver..then paste the export/share/xash3d/* into the dedicated folder of xash3d FWGS (probably storage/emulated/0/xash or create one) [domt forget to enable touch in configuration/touch]
+>If you want to play it in android.. install termux , zarchiver and xash3d FWGS. After the usual updation, install git in turmux,gitclone this repo and extract the four rar with zarchiver..then paste the export/share/xash3d/* into the dedicated folder of xash3d FWGS (probably storage/emulated/0/xash or create one) [don't forget to enable touch in configuration/touch]
 ---
 
 ## 🛠️ Troubleshooting
