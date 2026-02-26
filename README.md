@@ -12,7 +12,7 @@ I did the heavy lifting. Everything has been pre-compiled, extracted, converted 
 
 Forget the "Exodia" hunt; the complete game package is now available as a single consolidated archive in the **[Releases](../../releases)** section.
 
-1.  **Download** the latest `portable-black-mesa-trinity.tar.gz` from the Releases page.
+1.  **Download** the latest `OpenHL Legacy v1.0 (Linux Portable RAR Build)` from the Releases page.
 2.  **Extract** the archive to your preferred location.
 3.  **Permissions Check:** Open your terminal in the extracted directory and ensure the binaries are executable:
     ```bash
