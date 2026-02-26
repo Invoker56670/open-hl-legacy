@@ -33,11 +33,10 @@ Forget the "Exodia" hunt; the complete game package is now available as a single
 
 If you want to take the disaster on the go:
 
-1.  Install **Termux**, **ZArchiver**, and **Xash3D FWGS**.
-2.  In Termux, run `pkg install git` and clone this repo.
-3.  Download the release archive and extract it using ZArchiver.
-4.  Move the contents of `export/share/xash3d/*` into your device's Xash folder (usually `storage/emulated/0/xash`).
-5.  **Note:** Don't forget to enable **Touch Controls** in the Xash3D FWGS configuration menu!
+1.  Install **ZArchiver**, and **Xash3D FWGS**.
+2.  **Download** and **Extract** the latest `OpenHL Legacy v1.0 (Linux Portable RAR Build)` from the **[Releases](../../releases)** page ZArchiver.
+3.  Move the contents of `export/share/xash3d/*` into your device's Xash folder (usually `storage/emulated/0/xash`).
+4.  **Note:** Don't forget to enable **Touch Controls** in the Xash3D FWGS configuration menu!
 
 ---
 
